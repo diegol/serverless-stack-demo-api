@@ -1,0 +1,16 @@
+{
+  "name": "service1",
+  "version": "0.0.1",
+  "main": "handler.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "serverless-bundle test"
+  },
+  "dependencies": {
+    "joi": "^17.3.0",
+    "sample": "^0.0.1"
+  },
+  "devDependencies": {
+    "serverless-bundle": "^1.9.0"
+  }
+}
