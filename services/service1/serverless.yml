@@ -1,4 +1,4 @@
-org: diegoyabble
+# org: diegoyabble
 app: myapp
 service: serverless-lerna-yarn-service1
 
